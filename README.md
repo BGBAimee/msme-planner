@@ -31,7 +31,7 @@ The architecture is designed to map directly to the standardized evaluation requ
 ```
 msme_planner/
 ├── google/
-│   └── adk/                      # Localized core Agent Development Kit libraries
+│   └── adk/                      # Localized core Agent Development Kit (omitted from repo / local runtime only)
 ├── skills/
 │   └── context.md                # System instructions, personas, and guardrails
 ├── agent.py                      # Main Python initialization and execution loop
