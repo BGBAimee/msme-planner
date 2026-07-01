@@ -44,4 +44,4 @@ msme_planner/
 ## 4. The Trace Video Link
 Below is the deployment verification trace documenting successful, error-free local validation testing and interaction execution in the playground environment:
 
-* **[Watch the 60-Second Capstone Demonstration Video](https://youtu.be/jhtXxnFR0dg)**
+* **[Watch the 5-Minute Capstone Demonstration Video](https://youtu.be/jhtXxnFR0dg)**
