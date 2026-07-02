@@ -62,7 +62,7 @@ async def chat_endpoint(request: ChatRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 # This serves your beautiful new index.html layout automatically when someone loads the link!
-@app.get("/", response_class=HTMLResponse)
+@app.get("/index.html", response_class=HTMLResponse)
 def serve_interface():
     try:
         with open("index.html", "r", encoding="utf-8") as f:
